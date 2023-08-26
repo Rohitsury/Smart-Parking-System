@@ -1,0 +1,13 @@
+section {
+    position: relative; /* Required for positioning pseudo-element */
+    background-image: linear-gradient(to top,rgba(0,0,0,1),rgba(0,0,0,.4)), url('../assets/img/m.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+}
+
+ 
+
+/* Rest of your styles */
+
